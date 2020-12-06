@@ -68,7 +68,14 @@ body .jump-to-field-active {
 }
 body .flash {
     background-color: #1b1d23 !important;
-    color: #d6d8da !important
+    color: #21ee7bf2 !important
+}
+.flash {
+    background-image: linear-gradient(#717277,#717277) !important;
+    border-color: rgb(113 114 119) !important;
+}
+.flash .octicon {
+    color: rgb(255, 255, 255) !important;
 }
 body .blankslate {
     background-color: #31363f !important;
