@@ -862,6 +862,9 @@ tr:not(.blob-expanded) + .blob-expanded .blob-num {
     background-color: #181a1f !important;
     border-top: 1px solid #181a1f !important
 }
+.color-bg-primary {
+    background-color: #24292e !important;
+}
 .pr-toolbar {
     background-color: transparent !important
 }
